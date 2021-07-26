@@ -1,0 +1,16 @@
+{
+  "name": "1_fundamentos_node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Daniel <danprog91@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
